@@ -1,0 +1,55 @@
+
+#main{
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 50px;
+    
+}
+
+#foot{
+    white-space: pre;
+    margin-top: 71.4vh;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+    padding-top: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+#box1{
+    text-align: center;
+    padding: 5px;
+    
+    
+
+
+}
+
+.fields{
+
+background-color:white;
+min-height: 200px;
+padding: 20px;
+text-align: center;
+width: 500px;
+}
+
+#box{
+    height: 25px;
+}
+
+#hell{
+    margin-left: 415px;
+    margin-top: 175px;
+}
